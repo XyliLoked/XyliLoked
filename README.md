@@ -1,10 +1,10 @@
 ### Hi there 👋
-##My name is Denis Alexandrovich.
-##I have an incomplete higher education.
+## My name is Denis Alexandrovich.
+## I have an incomplete higher education.
 
-#I have completed AI developer courses.
+# I have completed AI developer courses.
 
-#I have tried writing in different programming languages, especially python, C++, and C+.
+# I have tried writing in different programming languages, especially python, C++, and C+.
 <!--
 **XyliLoked/XyliLoked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
